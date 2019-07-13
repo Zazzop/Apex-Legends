@@ -10,4 +10,4 @@
 ### Put videoconfig file here  :arrow_right: C:\Users\Username\Saved Games\Respawn\Apex\local               
 
 :+1:**Be sure its read only**:+1:
- :arrow_right: /play whoomp
+ :arrow_right:/play whoomp
