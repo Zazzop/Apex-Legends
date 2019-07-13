@@ -1,4 +1,4 @@
-# FPS Boost For Apex Legends Autoexec Settings
+#  :ballot_box_with_check: FPS Boost For Apex Legends Autoexec Settings  :ballot_box_with_check:
 
 
 ## Launch Options : +exec autoexec -fullscreen -forcenovsync -freq 144 +fps_max 189 -high
@@ -10,4 +10,3 @@
 ### Put videoconfig file here  :arrow_right: C:\Users\Username\Saved Games\Respawn\Apex\local               
 
 :+1:**Be sure its read only**:+1:
- :arrow_right:/play whoomp
