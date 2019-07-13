@@ -9,4 +9,4 @@
 
 ### Put videoconfig file here C:\Users\Username\Saved Games\Respawn\Apex\local               
 
-**and be sure its read only **
+**and be sure its read only**
