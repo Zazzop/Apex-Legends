@@ -1,4 +1,4 @@
-# FPS Boost Apex Legends Autoexec Settings#
+# FPS Boost For Apex Legends Autoexec Settings
 
 
 ## Launch Options : +exec autoexec -fullscreen -forcenovsync -freq 144 +fps_max 189 -high
