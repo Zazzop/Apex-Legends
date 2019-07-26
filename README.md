@@ -7,6 +7,6 @@
 ### Put autoexec file here  :arrow_right: C:\ProgramFiles(x86)\Origin Games\Apex\cfg
 
 
-### Put videoconfig file here  :arrow_right: C:\Users\Username\Saved Games\Respawn\Apex\local               
+### Put videoconfig file here  :arrow_right: C:\Users\Username\SavedGames\Respawn\Apex\local               
 
 :+1:**Be sure its read only**:+1:
