@@ -11,4 +11,4 @@
 
 :+1:**Be sure its read only**:+1:
 
-:+1:**When u start the game press f12 for autoexec execution.**:+1:
+:+1:**When u start the game press F12 for autoexec execution.**:+1:
