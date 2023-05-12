@@ -9,6 +9,6 @@
 
 ### Put videoconfig.cfg file here  :arrow_right: C:\Users\Username\SavedGames\Respawn\Apex\local               
 
-:+1:**Be sure its read only**:+1:
+:+1:**Be sure files are read only**:+1:
 
 :+1:**When u start the game press F12 for autoexec execution.**:+1:
