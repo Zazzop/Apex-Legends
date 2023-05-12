@@ -1,4 +1,4 @@
-#  :ballot_box_with_check: FPS Boost & Visual Improvements(No Input lag, No Shadow, No Grass etc.) For Apex Legends & Autoexec Settings  :ballot_box_with_check:
+#  :ballot_box_with_check: FPS Boost & Visual Improvements(No Input lag, No Shadow, No Grass etc.) For Apex Legends & Autoexec Settings  2023 :ballot_box_with_check:
 
 
 ## Launch Options : +exec autoexec -fullscreen -forcenovsync -freq 280 +fps_max 289 -high -dev -novid
